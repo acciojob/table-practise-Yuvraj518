@@ -2,6 +2,7 @@
 table{
 	background-color:yellow;
 	border:1px solid black;
+/* 	caption-side:top; */
 /* 	padding:2px; */
 }
 th,td{
